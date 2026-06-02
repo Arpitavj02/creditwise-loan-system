@@ -1,5 +1,7 @@
 # 🏦 CreditWise Loan System
 
+project url: https://creditwise-loan-system-d4o9g5wregjasf33xdi8hq.streamlit.app/
+
 > **Minor Project** — Machine Learning powered Loan Approval Prediction System  
 > Built for SecureTrust Bank using Python, Scikit-learn, XGBoost & Streamlit
 
